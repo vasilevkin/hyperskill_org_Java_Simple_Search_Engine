@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-Which_brackets_are_balanced" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/Which brackets are balanced/build/classes/java/main" />
               <option value="$MODULE_DIR$/../../../../Problems/Which brackets are balanced/build/classes/kotlin/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Which brackets are balanced/build/classes/java/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />

@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-Vowel_or_not" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/Vowel or not/build/classes/kotlin/main" />
               <option value="$MODULE_DIR$/../../../../Problems/Vowel or not/build/classes/java/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Vowel or not/build/classes/kotlin/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />

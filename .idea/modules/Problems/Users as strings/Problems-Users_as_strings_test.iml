@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-Users_as_strings" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/Users as strings/build/classes/java/main" />
               <option value="$MODULE_DIR$/../../../../Problems/Users as strings/build/classes/kotlin/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Users as strings/build/classes/java/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />

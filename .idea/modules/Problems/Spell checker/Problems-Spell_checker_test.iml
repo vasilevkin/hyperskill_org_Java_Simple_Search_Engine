@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-Spell_checker" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/Spell checker/build/classes/java/main" />
               <option value="$MODULE_DIR$/../../../../Problems/Spell checker/build/classes/kotlin/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Spell checker/build/classes/java/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />

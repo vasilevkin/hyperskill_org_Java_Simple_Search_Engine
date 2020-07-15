@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-Danger_levels" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/Danger levels/build/classes/java/main" />
               <option value="$MODULE_DIR$/../../../../Problems/Danger levels/build/classes/kotlin/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Danger levels/build/classes/java/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />

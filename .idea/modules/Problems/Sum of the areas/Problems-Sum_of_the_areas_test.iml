@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-Sum_of_the_areas" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/Sum of the areas/build/classes/kotlin/main" />
               <option value="$MODULE_DIR$/../../../../Problems/Sum of the areas/build/classes/java/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Sum of the areas/build/classes/kotlin/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />

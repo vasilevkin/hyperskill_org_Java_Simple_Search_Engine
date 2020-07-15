@@ -12,8 +12,8 @@
           <option name="moduleName" value="Problems-Working_with_queue" />
           <option name="friendPaths">
             <array>
-              <option value="$MODULE_DIR$/../../../../Problems/Working with queue/build/classes/java/main" />
               <option value="$MODULE_DIR$/../../../../Problems/Working with queue/build/classes/kotlin/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Working with queue/build/classes/java/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />
