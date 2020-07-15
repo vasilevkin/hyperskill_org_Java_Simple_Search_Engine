@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class MethodFinder {
+
+        public static String findMethod(String methodName, String[] classNames) {
+
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9952
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 4. Wrong answer
+  time: Mon, 06 Jul 2020 10:13:36 UTC
+record: -1

@@ -1,0 +1,10 @@
+[1;31m
+Start test 1[0m
+> 1
+> John
+	Not Found
+[1;31m
+Start test 2[0m
+> 3
+> john smith smith@gmail.com
+	Not Found
